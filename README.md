@@ -13,7 +13,8 @@ Restaurant performance analysis
 Delivery and rider efficiency tracking
 
 Revenue and growth trends
-[![https://github.com/Sahilerr/Zomato-Data-Anlysis-using-SQL-/blob/main/Screenshot%202025-09-19%20005850.png]]
+
+[![https://github.com/Sahilerr/Zomato-Data-Anlysis-using-SQL-/blob/main/Screenshot%202025-09-19%20005850.png](4]
 
 
 📂 Dataset Description

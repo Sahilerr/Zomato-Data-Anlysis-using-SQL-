@@ -146,17 +146,4 @@ Subqueries for city/dish-level insights.
 
 Updates and deletions for EDA and data cleaning.
 
-🚀 How to Run
-Import the CSVs into PostgreSQL (or any RDBMS):
-
-sql
-\copy customers FROM 'customers.csv' DELIMITER ',' CSV HEADER;
-\copy restaurants FROM 'restaurants.csv' DELIMITER ',' CSV HEADER;
-\copy orders FROM 'orders.csv' DELIMITER ',' CSV HEADER;
-\copy delivery FROM 'delivery.csv' DELIMITER ',' CSV HEADER;
-\copy riders FROM 'riders.csv' DELIMITER ',' CSV HEADER;
-Create relationships using keys (PK/FK).
-
-Apply the data cleaning queries provided in the script.
-
 Run the analysis queries to generate insights.
